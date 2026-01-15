@@ -16,7 +16,9 @@ I’m excited to share a real-world SQL mini project where I applied everything 
 
 🔹 Step 3: SQL Analysis 
 
-Using only the SQL topics I’ve covered, I wrote queries to: ✔ Analyze total customers and products
+Using only the SQL topics I’ve covered, I wrote queries to: 
+
+✔ Analyze total customers and products
 
 ✔ Track orders and quantities sold
 
