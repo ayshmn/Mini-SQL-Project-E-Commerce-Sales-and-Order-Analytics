@@ -3,7 +3,9 @@
 I’m excited to share a real-world SQL mini project where I applied everything I’ve learned so far in my SQL journey — step by step 📊💻
 
 🔹 Step 1: Database Design
+
 ✔ Created an e-commerce database
+
 ✔ Designed tables for Customers, Products, and Orders
 
 🔹 Step 2: Data Implementation
