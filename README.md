@@ -9,16 +9,25 @@ I’m excited to share a real-world SQL mini project where I applied everything 
 ✔ Designed tables for Customers, Products, and Orders
 
 🔹 Step 2: Data Implementation
+
 ✔ Inserted realistic sample data (up to 10 records)
+
 ✔ Used proper data types and constraints for data integrity
 
-🔹 Step 3: SQL Analysis (Core Learning Applied)
+🔹 Step 3: SQL Analysis 
+
 Using only the SQL topics I’ve covered, I wrote queries to: ✔ Analyze total customers and products
+
 ✔ Track orders and quantities sold
+
 ✔ Filter data using WHERE conditions
+
 ✔ Perform sorting with ORDER BY
+
 ✔ Generate insights using GROUP BY & HAVING
+
 ✔ Apply aggregate functions like COUNT, SUM, AVG
+
 ✔ Handle transactions safely using COMMIT & ROLLBACK
 
 📌 Key Learning:
